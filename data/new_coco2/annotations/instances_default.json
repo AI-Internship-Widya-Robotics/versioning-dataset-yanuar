@@ -1,0 +1,3148 @@
+{
+    "licenses": [
+        {
+            "id": 0,
+            "name": "",
+            "url": ""
+        }
+    ],
+    "info": {
+        "year": "",
+        "version": "",
+        "description": "",
+        "contributor": "",
+        "url": "",
+        "date_created": ""
+    },
+    "categories": [
+        {
+            "id": 1,
+            "name": "bicycle",
+            "supercategory": ""
+        },
+        {
+            "id": 2,
+            "name": "motorcycle",
+            "supercategory": ""
+        },
+        {
+            "id": 3,
+            "name": "car",
+            "supercategory": ""
+        },
+        {
+            "id": 4,
+            "name": "bus",
+            "supercategory": ""
+        },
+        {
+            "id": 5,
+            "name": "truck",
+            "supercategory": ""
+        },
+        {
+            "id": 6,
+            "name": "wheel",
+            "supercategory": ""
+        },
+        {
+            "id": 7,
+            "name": "pos",
+            "supercategory": ""
+        },
+        {
+            "id": 8,
+            "name": "manless",
+            "supercategory": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "width": 1077,
+            "height": 557,
+            "file_name": "coco1_ann1.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 2,
+            "width": 730,
+            "height": 349,
+            "file_name": "coco1_ann2.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 3,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_101905.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 4,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_106700.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 5,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_111919.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 6,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_118450.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 7,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_12231.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 8,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_15023.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 9,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_16035.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 10,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_16314.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 11,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_174070.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 12,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_18135.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 13,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_189984.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 14,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_201023.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 15,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_205252.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 16,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_229932.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 17,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_232017.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 18,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_238546.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 19,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_255915.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 20,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_256623.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 21,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_262539.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 22,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_46230.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 23,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_49281.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 24,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_51111.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 25,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_55256.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 26,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_58558.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 27,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco1_videoframe_5930.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 56,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_344176.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 57,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_35184.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 58,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco2_videoframe_352857.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 59,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_35901.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 60,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_36145.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 61,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_37025.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 62,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_374845.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 63,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_409057.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 64,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_4145.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 65,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_42388.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 66,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_42655.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 67,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_434400.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 68,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_43569.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 69,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_49085.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 70,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_493924.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 71,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_495070.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 72,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_503511.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 73,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco2_videoframe_50629.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 74,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_50752.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 75,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_521087.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 76,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_533457.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 77,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco2_videoframe_541605.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 78,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_54331.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 79,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_54912.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 80,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_6023.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 81,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_6134.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 82,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_614893.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 83,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_63159.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 84,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_65440.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 85,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_65622.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 86,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_673160.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 87,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_682360.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 88,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_70872.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 89,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_70947.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 90,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_76496.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 91,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_77220.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 92,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_78918.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 93,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco2_videoframe_78975.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 94,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_82230.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 95,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_82825.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 96,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_8340.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 97,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_84235.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 98,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_86551.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 99,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_88373.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 100,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_92264.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 101,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_94420.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 102,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco2_videoframe_95930.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 103,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco2_videoframe_97336.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 104,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco2_videoframe_98470.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 182,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_25451asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 183,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco3_videoframe_2772.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 184,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco3_videoframe_29486.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 185,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco3_videoframe_31768.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 186,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_32438asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 187,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco3_videoframe_32727.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 188,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_35283asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 189,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco3_videoframe_35507.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 190,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_3662asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 191,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_37339asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 192,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_3739asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 193,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_38481asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 194,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_3941asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 195,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco3_videoframe_45597asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 196,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_45905asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 197,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_46508asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 198,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_4809asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 199,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_49294asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 200,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_5246asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 201,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco3_videoframe_58059.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 202,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco3_videoframe_60770.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 203,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco3_videoframe_6858.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 204,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco3_videoframe_68897.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 205,
+            "width": 1280,
+            "height": 720,
+            "file_name": "coco3_videoframe_69830.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 206,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_70689asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 207,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_71596asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 208,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_755asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 209,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_76048asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 210,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_76216asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 211,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_77236asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 212,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_80317asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 213,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_81517asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 214,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_82980asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 215,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_88732asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 216,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_90264asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 217,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_9280asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        },
+        {
+            "id": 218,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "coco3_videoframe_94057asx.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 307368.78,
+            "bbox": [
+                51.45,
+                105.35,
+                970.72,
+                316.64
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 184751.03,
+            "bbox": [
+                7.0,
+                83.9,
+                704.78,
+                262.14
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 3,
+            "image_id": 3,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 440433.04,
+            "bbox": [
+                91.05,
+                179.94,
+                1178.7,
+                373.66
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 375606.45,
+            "bbox": [
+                21.63,
+                218.46,
+                1234.37,
+                304.29
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 5,
+            "image_id": 5,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 742714.56,
+            "bbox": [
+                2.38,
+                10.5,
+                1263.12,
+                588.0
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 6,
+            "image_id": 6,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 353154.33,
+            "bbox": [
+                181.65,
+                294.0,
+                1082.2,
+                326.33
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 7,
+            "image_id": 7,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 498017.14,
+            "bbox": [
+                57.58,
+                124.75,
+                1186.32,
+                419.8
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 8,
+            "image_id": 8,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 411563.69,
+            "bbox": [
+                266.86,
+                128.59,
+                852.54,
+                482.75
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 9,
+            "image_id": 9,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 675127.2,
+            "bbox": [
+                78.1,
+                63.1,
+                1147.2,
+                588.5
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 10,
+            "image_id": 10,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 775071.99,
+            "bbox": [
+                44.6,
+                34.35,
+                1213.8,
+                638.55
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 11,
+            "image_id": 11,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 622731.59,
+            "bbox": [
+                114.1,
+                60.54,
+                1109.9,
+                561.07
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 12,
+            "image_id": 12,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 658552.18,
+            "bbox": [
+                1.09,
+                3.6,
+                1091.33,
+                603.44
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 13,
+            "image_id": 13,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 304853.34,
+            "bbox": [
+                419.6,
+                314.8,
+                838.2,
+                363.7
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 14,
+            "image_id": 13,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 70417.17,
+            "bbox": [
+                114.47,
+                414.04,
+                333.62,
+                211.07
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 15,
+            "image_id": 14,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 438462.81,
+            "bbox": [
+                121.48,
+                201.4,
+                1031.92,
+                424.9
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 16,
+            "image_id": 15,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 490057.2,
+            "bbox": [
+                38.42,
+                95.92,
+                1153.32,
+                424.91
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 17,
+            "image_id": 16,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 471029.02,
+            "bbox": [
+                418.3,
+                0.0,
+                854.18,
+                551.44
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 18,
+            "image_id": 17,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 590188.12,
+            "bbox": [
+                50.4,
+                4.18,
+                1218.39,
+                484.4
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 19,
+            "image_id": 18,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 512782.69,
+            "bbox": [
+                113.3,
+                11.57,
+                946.6,
+                541.71
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 20,
+            "image_id": 19,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 279575.71,
+            "bbox": [
+                263.14,
+                161.45,
+                707.16,
+                395.35
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 21,
+            "image_id": 20,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 565842.34,
+            "bbox": [
+                219.8,
+                112.2,
+                1058.5,
+                534.57
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 22,
+            "image_id": 21,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 426385.33,
+            "bbox": [
+                6.2,
+                92.1,
+                960.89,
+                443.74
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 23,
+            "image_id": 22,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 323801.1,
+            "bbox": [
+                207.5,
+                147.6,
+                898.2,
+                360.5
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 24,
+            "image_id": 23,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 391849.33,
+            "bbox": [
+                150.51,
+                266.22,
+                1115.49,
+                351.28
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 25,
+            "image_id": 24,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 471268.97,
+            "bbox": [
+                27.26,
+                112.15,
+                828.94,
+                568.52
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 26,
+            "image_id": 25,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 809597.3,
+            "bbox": [
+                2.9,
+                35.12,
+                1269.2,
+                637.88
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 27,
+            "image_id": 26,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 519952.29,
+            "bbox": [
+                110.46,
+                204.59,
+                1038.43,
+                500.71
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 28,
+            "image_id": 27,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 414558.57,
+            "bbox": [
+                41.12,
+                65.93,
+                909.02,
+                456.05
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 58,
+            "image_id": 56,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 131063.02,
+            "bbox": [
+                259.1,
+                259.7,
+                532.56,
+                246.1
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 59,
+            "image_id": 57,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 117666.53,
+            "bbox": [
+                412.73,
+                279.3,
+                507.84,
+                231.7
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 60,
+            "image_id": 58,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1199590.21,
+            "bbox": [
+                64.54,
+                168.8,
+                1550.86,
+                773.5
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 61,
+            "image_id": 59,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 758329.64,
+            "bbox": [
+                63.76,
+                70.3,
+                1173.34,
+                646.3
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 62,
+            "image_id": 60,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 246001.71,
+            "bbox": [
+                355.8,
+                260.91,
+                776.3,
+                316.89
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 63,
+            "image_id": 61,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 412258.07,
+            "bbox": [
+                170.5,
+                59.83,
+                848.32,
+                485.97
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 64,
+            "image_id": 62,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 394637.67,
+            "bbox": [
+                438.3,
+                80.08,
+                823.5,
+                479.22
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 65,
+            "image_id": 63,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 111722.61,
+            "bbox": [
+                187.23,
+                176.17,
+                387.24,
+                288.51
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VII"
+            }
+        },
+        {
+            "id": 66,
+            "image_id": 63,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 166516.02,
+            "bbox": [
+                573.3,
+                176.4,
+                640.2,
+                260.1
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 67,
+            "image_id": 64,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 93156.57,
+            "bbox": [
+                262.79,
+                296.09,
+                450.01,
+                207.01
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 68,
+            "image_id": 65,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 152489.14,
+            "bbox": [
+                226.78,
+                224.1,
+                542.28,
+                281.2
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 69,
+            "image_id": 66,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 554973.21,
+            "bbox": [
+                73.78,
+                147.58,
+                1116.04,
+                497.27
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 70,
+            "image_id": 67,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 326254.46,
+            "bbox": [
+                195.28,
+                189.2,
+                909.04,
+                358.9
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 71,
+            "image_id": 68,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 310763.75,
+            "bbox": [
+                10.78,
+                136.33,
+                767.28,
+                405.02
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 72,
+            "image_id": 69,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 263513.61,
+            "bbox": [
+                85.03,
+                143.8,
+                738.03,
+                357.05
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 73,
+            "image_id": 70,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 455410.76,
+            "bbox": [
+                60.28,
+                221.83,
+                1156.54,
+                393.77
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 74,
+            "image_id": 71,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 548629.04,
+            "bbox": [
+                125.53,
+                185.83,
+                1134.07,
+                483.77
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 75,
+            "image_id": 72,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 362231.01,
+            "bbox": [
+                94.0,
+                190.33,
+                936.07,
+                386.97
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 76,
+            "image_id": 73,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 354491.67,
+            "bbox": [
+                134.08,
+                383.2,
+                1154.32,
+                307.1
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 77,
+            "image_id": 74,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 256451.81,
+            "bbox": [
+                298.79,
+                201.58,
+                850.53,
+                301.52
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 78,
+            "image_id": 75,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 586490.32,
+            "bbox": [
+                35.5,
+                113.83,
+                1143.1,
+                513.07
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 79,
+            "image_id": 76,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 258825.47,
+            "bbox": [
+                269.5,
+                260.09,
+                810.07,
+                319.51
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 80,
+            "image_id": 77,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 662063.29,
+            "bbox": [
+                343.34,
+                173.9,
+                1127.3,
+                587.3
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 81,
+            "image_id": 78,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 302562.09,
+            "bbox": [
+                181.78,
+                167.83,
+                747.03,
+                405.02
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 82,
+            "image_id": 79,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 506902.91,
+            "bbox": [
+                4.0,
+                12.58,
+                996.82,
+                508.52
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 83,
+            "image_id": 80,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 369121.14,
+            "bbox": [
+                161.53,
+                206.08,
+                942.79,
+                391.52
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 84,
+            "image_id": 81,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 432463.16,
+            "bbox": [
+                140.09,
+                178.97,
+                1017.01,
+                425.23
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 85,
+            "image_id": 82,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 202492.71,
+            "bbox": [
+                44.53,
+                287.09,
+                947.29,
+                213.76
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 86,
+            "image_id": 83,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 494102.71,
+            "bbox": [
+                73.78,
+                53.08,
+                958.92,
+                515.27
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 87,
+            "image_id": 84,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 94506.3,
+            "bbox": [
+                204.3,
+                306.8,
+                441.0,
+                214.3
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 88,
+            "image_id": 85,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 156093.78,
+            "bbox": [
+                305.2,
+                268.9,
+                624.5,
+                249.95
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 89,
+            "image_id": 86,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 150365.51,
+            "bbox": [
+                241.9,
+                266.2,
+                589.9,
+                254.9
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 90,
+            "image_id": 87,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 444715.7,
+            "bbox": [
+                191.2,
+                207.8,
+                980.63,
+                453.5
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 91,
+            "image_id": 88,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 200923.38,
+            "bbox": [
+                206.67,
+                198.14,
+                602.74,
+                333.35
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 92,
+            "image_id": 89,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 631473.31,
+            "bbox": [
+                45.81,
+                134.18,
+                1234.19,
+                511.65
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 93,
+            "image_id": 90,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 398232.79,
+            "bbox": [
+                38.06,
+                97.36,
+                885.69,
+                449.63
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 94,
+            "image_id": 91,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 535627.68,
+            "bbox": [
+                0.0,
+                101.3,
+                1067.2,
+                501.9
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 95,
+            "image_id": 92,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 513495.35,
+            "bbox": [
+                27.61,
+                217.29,
+                1220.98,
+                420.56
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 96,
+            "image_id": 93,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 590955.9,
+            "bbox": [
+                0.0,
+                224.5,
+                1383.0,
+                427.3
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 97,
+            "image_id": 94,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 166113.1,
+            "bbox": [
+                274.5,
+                202.02,
+                529.09,
+                313.96
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 98,
+            "image_id": 95,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 314313.74,
+            "bbox": [
+                14.8,
+                145.81,
+                768.7,
+                408.89
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 99,
+            "image_id": 96,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 321443.27,
+            "bbox": [
+                315.2,
+                126.9,
+                790.7,
+                406.53
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 100,
+            "image_id": 97,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 589358.33,
+            "bbox": [
+                92.32,
+                142.0,
+                1069.81,
+                550.9
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 101,
+            "image_id": 98,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 72069.43,
+            "bbox": [
+                569.09,
+                269.85,
+                302.33,
+                238.38
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 102,
+            "image_id": 99,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 338696.4,
+            "bbox": [
+                90.4,
+                134.1,
+                740.32,
+                457.5
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 103,
+            "image_id": 100,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 480691.0,
+            "bbox": [
+                148.53,
+                89.1,
+                1067.87,
+                450.14
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 104,
+            "image_id": 101,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 569196.63,
+            "bbox": [
+                127.2,
+                46.97,
+                953.54,
+                596.93
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 105,
+            "image_id": 102,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 639251.21,
+            "bbox": [
+                507.94,
+                210.0,
+                1008.76,
+                633.7
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 106,
+            "image_id": 103,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 45420.33,
+            "bbox": [
+                456.7,
+                296.0,
+                291.1,
+                156.03
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 107,
+            "image_id": 104,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 314757.62,
+            "bbox": [
+                653.29,
+                359.9,
+                793.64,
+                396.6
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 187,
+            "image_id": 182,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 720438.14,
+            "bbox": [
+                0.1,
+                356.4,
+                1121.13,
+                642.6
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 188,
+            "image_id": 183,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 460935.08,
+            "bbox": [
+                68.5,
+                198.18,
+                1154.3,
+                399.32
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 189,
+            "image_id": 184,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 455990.51,
+            "bbox": [
+                107.16,
+                182.53,
+                1085.64,
+                420.02
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 190,
+            "image_id": 185,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 298222.49,
+            "bbox": [
+                118.41,
+                235.3,
+                1061.29,
+                281.0
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 191,
+            "image_id": 186,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1004733.32,
+            "bbox": [
+                492.18,
+                29.11,
+                1012.54,
+                992.29
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VII"
+            }
+        },
+        {
+            "id": 192,
+            "image_id": 187,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 308007.2,
+            "bbox": [
+                10.78,
+                249.06,
+                1190.32,
+                258.76
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 193,
+            "image_id": 188,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1510690.15,
+            "bbox": [
+                201.92,
+                5.49,
+                1420.93,
+                1063.17
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VII"
+            }
+        },
+        {
+            "id": 194,
+            "image_id": 189,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 254010.83,
+            "bbox": [
+                82.8,
+                246.81,
+                999.02,
+                254.26
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 195,
+            "image_id": 190,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 341955.22,
+            "bbox": [
+                478.68,
+                420.6,
+                1164.42,
+                293.67
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 196,
+            "image_id": 191,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1261983.28,
+            "bbox": [
+                458.43,
+                8.86,
+                1302.8,
+                968.67
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VII"
+            }
+        },
+        {
+            "id": 197,
+            "image_id": 192,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1428288.92,
+            "bbox": [
+                218.8,
+                27.0,
+                1518.81,
+                940.4
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VII"
+            }
+        },
+        {
+            "id": 198,
+            "image_id": 193,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 969885.9,
+            "bbox": [
+                596.81,
+                72.99,
+                1113.8,
+                870.79
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VII"
+            }
+        },
+        {
+            "id": 199,
+            "image_id": 194,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1634844.6,
+            "bbox": [
+                239.05,
+                12.24,
+                1582.94,
+                1032.79
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VII"
+            }
+        },
+        {
+            "id": 200,
+            "image_id": 195,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 239061.77,
+            "bbox": [
+                206.53,
+                303.1,
+                1073.47,
+                222.7
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 201,
+            "image_id": 196,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 894184.72,
+            "bbox": [
+                225.5,
+                191.12,
+                1424.36,
+                627.78
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 202,
+            "image_id": 197,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1213927.26,
+            "bbox": [
+                16.29,
+                187.75,
+                1873.2,
+                648.05
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 203,
+            "image_id": 198,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1554758.34,
+            "bbox": [
+                309.93,
+                0.0,
+                1532.31,
+                1014.65
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VII"
+            }
+        },
+        {
+            "id": 204,
+            "image_id": 199,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 869031.81,
+            "bbox": [
+                104.04,
+                322.75,
+                1454.69,
+                597.4
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 205,
+            "image_id": 200,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 370636.53,
+            "bbox": [
+                478.68,
+                400.38,
+                1262.3,
+                293.62
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 206,
+            "image_id": 201,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 590533.34,
+            "bbox": [
+                105.3,
+                71.3,
+                1080.02,
+                546.78
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 207,
+            "image_id": 202,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 596514.24,
+            "bbox": [
+                118.8,
+                64.55,
+                1008.0,
+                591.78
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 208,
+            "image_id": 203,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 415126.84,
+            "bbox": [
+                69.28,
+                208.6,
+                1111.54,
+                373.47
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 209,
+            "image_id": 204,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 736749.02,
+            "bbox": [
+                33.3,
+                62.3,
+                1226.28,
+                600.8
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 210,
+            "image_id": 205,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 699594.71,
+            "bbox": [
+                71.53,
+                53.3,
+                1102.54,
+                634.53
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 211,
+            "image_id": 206,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 487877.51,
+            "bbox": [
+                485.43,
+                316.0,
+                870.79,
+                560.27
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 212,
+            "image_id": 207,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 558420.21,
+            "bbox": [
+                326.8,
+                231.62,
+                870.79,
+                641.28
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 213,
+            "image_id": 208,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1303830.07,
+            "bbox": [
+                120.92,
+                211.37,
+                1694.32,
+                769.53
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 214,
+            "image_id": 209,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1459485.27,
+            "bbox": [
+                23.04,
+                25.74,
+                1650.46,
+                884.29
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VII"
+            }
+        },
+        {
+            "id": 215,
+            "image_id": 210,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1437220.57,
+            "bbox": [
+                14.53,
+                42.7,
+                1650.46,
+                870.8
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VII"
+            }
+        },
+        {
+            "id": 216,
+            "image_id": 211,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1159704.47,
+            "bbox": [
+                19.66,
+                143.9,
+                1701.07,
+                681.75
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 217,
+            "image_id": 212,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1034939.9,
+            "bbox": [
+                181.67,
+                157.37,
+                1525.56,
+                678.4
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 218,
+            "image_id": 213,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1045735.99,
+            "bbox": [
+                158.04,
+                130.4,
+                1329.81,
+                786.38
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 219,
+            "image_id": 214,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1123631.83,
+            "bbox": [
+                279.55,
+                22.4,
+                1228.55,
+                914.6
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 220,
+            "image_id": 215,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 617442.09,
+            "bbox": [
+                583.31,
+                147.24,
+                988.92,
+                624.36
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 221,
+            "image_id": 216,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1001642.49,
+            "bbox": [
+                289.7,
+                2.11,
+                1201.5,
+                833.66
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan VIII"
+            }
+        },
+        {
+            "id": 222,
+            "image_id": 217,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 1114157.27,
+            "bbox": [
+                249.17,
+                184.37,
+                1650.53,
+                675.03
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        },
+        {
+            "id": 223,
+            "image_id": 218,
+            "category_id": 5,
+            "segmentation": [],
+            "area": 945517.25,
+            "bbox": [
+                144.5,
+                191.12,
+                1687.61,
+                560.27
+            ],
+            "iscrowd": 0,
+            "attributes": {
+                "type": "Golongan IX"
+            }
+        }
+    ]
+}
